@@ -21,7 +21,7 @@ print(f"It's price is ${price} only!")
 #string
 name = "Kevin bart"  
 fav_food = "burger"
-email = "kevinbart123@gmai.com" #not actual email
+email = "kevinbart123@gmaiL.com" #not actual email
 print(f"Hello {name}!!")
 print(f"Kevin barts favourite food is {fav_food}")
 print(f"Hit him up on {email}")
